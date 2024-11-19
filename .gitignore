@@ -11,6 +11,7 @@ airflow/www/static/coverage/
 airflow.db
 airflow.cfg
 airflow_login.py
+__pycache__/
 build
 cover
 dbinit.py
@@ -29,3 +30,4 @@ rat-results.txt
 /.eggs/
 /.tox/
 venv
+.env
